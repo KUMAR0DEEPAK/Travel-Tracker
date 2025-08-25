@@ -38,3 +38,15 @@ Screenshots
 <img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/7237ec96-6e25-42e3-bdaf-211994122622" />
 <img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/ffac99b0-c984-4909-8859-88cc471d8089" />
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/4f19df5f-dbf9-436a-b52e-7326f95eb4ea" />
+
+Setup Instructions
+1. Clone the repository  
+   `git clone https://github.com/KUMAR0DEEPAK/travel-tracker.git`
+
+2. Install dependencies  
+   `npm install`
+
+3. Set up PostgreSQL database and configure.
+
+4. Run the app  
+   `node index.js`
