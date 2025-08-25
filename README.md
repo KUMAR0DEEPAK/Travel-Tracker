@@ -12,3 +12,5 @@ Future Enhancements
 - Color-coded entries based on user preferences
 - Tooltip-based UI improvements for better accessibility
 
+Screenshots
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/1781e9d6-bf8e-4904-8890-f79d24d97a1c" />
